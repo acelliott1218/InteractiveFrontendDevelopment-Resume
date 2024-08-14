@@ -136,6 +136,8 @@ header {
     color: #ffffff;
 }
 
+div#map {min-height: 360px;}
+
 .title {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
